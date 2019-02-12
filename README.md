@@ -1,2 +1,0 @@
-# KittyClicker
-Created with CodeSandbox
